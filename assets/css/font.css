@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Noto+Sans+KR:wght@100..900&display=swap');
+
+/*  
+    woff2 웹 오픈 폰트 포맷 woff최대 20%50% 압축된것 용량이 작음
+    woff 웹 오픈 폰트 포맷 용량이 작음
+    ttf 트루타입폰트 (웹용은아님)(구형브라우저를 지원)
+    otf 오픈트루타입폰트 (웹용은아님)(구형브라우저를 지원)
+
+    eot 익스플로러 (x)
+
+*/
+@font-face {
+    font-family: 'Gilroy';
+    font-weight: 400;
+    src:url('../font/Gilroy-Regular.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Gilroy';
+    font-weight: 500;
+    src:url('../font/Gilroy-Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    font-weight: 600;
+    src:url('../font/Gilroy-SemiBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    font-weight: 700;
+    src:url('../font/Gilroy-Bold.woff2') format('woff2');
+}
+
+
+
+/* @font-face {
+    font-family: 'Montserrat';
+    font-weight: 400;
+    src: url('/_wisa/img/font/Montserrat-Regular.eot');
+    src: local(※),url('/_wisa/img/font/Montserrat-Regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    font-weight: 500;
+    src: url('/_wisa/img/font/Montserrat-Medium.eot');
+    src: local(※),url('/_wisa/img/font/Montserrat-Medium.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    font-weight: 600;
+    src: url('/_wisa/img/font/Montserrat-SemiBold.eot');
+    src: local(※),url('/_wisa/img/font/Montserrat-SemiBold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    font-weight: 700;
+    src: url('/_wisa/img/font/Montserrat-Bold.eot');
+    src: local(※),url('/_wisa/img/font/Montserrat-Bold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'NotoSansKR';
+    font-weight: 300;
+    src: url('/_wisa/img/font/NotoSansKR-Light.eot');
+    src: local(※),url('/_wisa/img/font/NotoSansKR-Light.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'NotoSansKR';
+    font-weight: 400;
+    src: url('/_wisa/img/font/NotoSansKR-Regular.eot');
+    src: local(※),url('/_wisa/img/font/NotoSansKR-Regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'NotoSansKR';
+    font-weight: 500;
+    src: url('/_wisa/img/font/NotoSansKR-Medium.eot');
+    src: local(※),url('/_wisa/img/font/NotoSansKR-Medium.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'NotoSansKR';
+    font-weight: 700;
+    src: url('/_wisa/img/font/NotoSansKR-Bold.eot');
+    src: local(※),url('/_wisa/img/font/NotoSansKR-Bold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'NotoSansKR';
+    font-weight: 800;
+    src: url('../NotoSansKR-ExtraBold.woff') format('woff');
+} */
